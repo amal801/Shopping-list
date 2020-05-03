@@ -1,0 +1,103 @@
+{
+    "shopping" :[
+        {
+            "SerialNo" : "1",
+            "Name" : "Sugar",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "condiments",
+            "Notes" : "Avadh sugar"
+        },
+        {
+            "SerialNo" : "2",
+            "Name" : "White meat",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Meats",
+            "Notes" : "Allansons meats"
+        },
+        {
+            "SerialNo" : "3",
+            "Name" : "Rice",
+            "Quantity" : "3",
+            "Unit" : "kg",
+            "Department" : "Grains",
+            "Notes" : "Basmati rice"
+        },
+        {
+            "SerialNo" : "4",
+            "Name" : "Cooking oil",
+            "Quantity" : "2",
+            "Unit" : "Litre",
+            "Department" : "Oils",
+            "Notes" : "Sunflower"
+        },
+        {
+            "SerialNo" : "5",
+            "Name" : "Milk",
+            "Quantity" : "2",
+            "Unit" : "Litre",
+            "Department" : "Milk and eggs",
+            "Notes" : "Milma"
+        },
+        {
+            "SerialNo" : "6",
+            "Name" : "Onions",
+            "Quantity" : "1 1/2",
+            "Unit" : "kg",
+            "Department" : "Vegetables",
+            "Notes" : "Fresh"
+        },
+        {
+            "SerialNo" : "7",
+            "Name" : "Salt",
+            "Quantity" : "2",
+            "Unit" : "Packets",
+            "Department" : "Condiments",
+            "Notes" : "Tata Salt"
+        },
+        {
+            "SerialNo" : "8",
+            "Name" : "Apples",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Fruits",
+            "Notes" : "Green apples also"
+        },
+        {
+            "SerialNo" : "9",
+            "Name" : "Bread",
+            "Quantity" : "2",
+            "Unit" : "Packets",
+            "Department" : "Grains",
+            "Notes" : "Wibs"
+        },
+        {
+            "SerialNo" : "10",
+            "Name" : "Eggs",
+            "Quantity" : "10",
+            "Unit" : "1 box",
+            "Department" : "Milk and eggs",
+            "Notes" : "Duck and Hen eggs"
+        },
+        
+        {
+            "SerialNo" : "11",
+            "Name" : "Tomatos",
+            "Quantity" : "2",
+            "Unit" : "kg",
+            "Department" : "Vegetables",
+            "Notes" : "Fresh"
+        },
+
+        {
+            "SerialNo" : "12",
+            "Name" : "Mangos",
+            "Quantity" : "1",
+            "Unit" : "kg",
+            "Department" : "Fruits",
+            "Notes" : "Ripe also"
+        }
+    
+    ]
+}
